@@ -1,6 +1,7 @@
 ### Olá! Eu sou Matheus Dutra.
 
-- 🌱 Estudande de Analise e desenvolvimento de Sistemas, atualmente focando nas tecnologias de back-end;
+- Estudande de Analise e desenvolvimento de Sistemas no Centro Universitario Uninter;
+- Foco em programação Back-end com PHP e o framework Symfony e a dados com foco em PostgreSQL;
 
 <div align="center" style"display: inline_block">
   <a href="https://github.com/matheusbbdutra">
@@ -8,12 +9,12 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbbdutra&layout=compact&langs_count=4&theme=dracula"/>
 </div>  
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+  <img align="center" alt="Dutra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dutra-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Dutra-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="right" alt="Dutra-pic" height="150" style="border-radius:50px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
   <br>
   <div>     
