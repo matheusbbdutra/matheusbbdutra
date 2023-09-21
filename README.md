@@ -1,24 +1,20 @@
-### Olá! Eu sou Matheus Dutra.
+# Matheus Dutra
 
-- Estudande de Analise e desenvolvimento de Sistemas no Centro Universitario Uninter;
-- Foco em programação Back-end com PHP e o framework Symfony e a dados com foco em PostgreSQL;
+Tenho 26 anos, moro em Santa Rita-PB. Trabalho atualmente na área, como desenvolvedor PHP na manutenção de código e criação de novas FEAT. Sou apaixonado por tecnologia e estou também me graduando na área, e atualmente estou buscando mudar de linguagem para o C#.  
 
-<div align="center" style"display: inline_block">
-  <a href="https://github.com/matheusbbdutra">
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=matheusbbdutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbbdutra&layout=compact&langs_count=4&theme=dracula"/>
-</div>  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dutra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dutra-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Dutra-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Dutra-pic" height="150" style="border-radius:50px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-</div>
-  <br>
-  <div>     
-  <a href = "mailto:matheusbbdutra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusbdutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusbbdutra&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusbbdutra&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Tecnologias Utilizadas
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![Symfony](https://img.shields.io/badge/Symfony-000?style=for-the-badge&logo=Symfony)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript)
+![PostGresql](https://img.shields.io/badge/PostGresql-000?style=for-the-badge&logo=PostGresql)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+
+## Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheusbdutra/)
+
