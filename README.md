@@ -8,8 +8,9 @@ Tenho 26 anos, moro em Santa Rita-PB. Trabalho atualmente na área, como desenvo
 ## Tecnologias Utilizadas
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![Symfony](https://img.shields.io/badge/Symfony-000?style=for-the-badge&logo=Symfony)
+![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel) 
+![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript)
 ![PostGresql](https://img.shields.io/badge/PostGresql-000?style=for-the-badge&logo=PostGresql)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
