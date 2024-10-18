@@ -1,15 +1,15 @@
 # Matheus Dutra
 
-🎯 Desenvolvedor apaixonado por resolver problemas e criar soluções inteligentes com código.
-📍 Moro em Santa Rita - PB e, aos 26 anos, continuo evoluindo na área de tecnologia, sempre em busca de novos conhecimentos. Acredito que a prática constante, tanto no trabalho quanto em projetos pessoais, é essencial para crescer como profissional.
+🎯 Desenvolvedor apaixonado por resolver problemas e criar soluções inteligentes com código.<br>
+📍 Moro em Santa Rita - PB e, continuo evoluindo na área de tecnologia, sempre em busca de novos conhecimentos. Acredito que a prática constante, tanto no trabalho quanto em projetos pessoais, é essencial para crescer como profissional.
 
 A programação é a minha forma de unir criatividade e lógica, permitindo-me enfrentar desafios e desenvolver soluções eficientes. Trabalho atualmente com sistemas patenteados, implementando novas funcionalidades e mantendo as existentes, sempre prezando pela clareza, boas práticas e um código fácil de entender para que outras pessoas possam colaborar de forma fluida.
 
-O que faço atualmente:
-🔧 Implemento novas funcionalidades e mantenho sistemas já existentes com foco em alta performance e organização.
-🛠 Tecnologias principais: PHP, Symfony e Doctrine.
-🌱 Contato adicional com: JavaScript / TypeScript sempre que necessário, ampliando meu repertório.
-🚀 Sempre em busca de aprender mais e contribuir com a comunidade de tecnologia.
+O que faço atualmente:<br>
+🔧 Implemento novas funcionalidades e mantenho sistemas já existentes com foco em alta performance e organização.<br>
+🛠 Tecnologias principais: PHP, Symfony e Doctrine.<br>
+🌱 Contato adicional com: JavaScript / TypeScript sempre que necessário, ampliando meu repertório.<br>
+🚀 Sempre em busca de aprender mais e contribuir com a comunidade de tecnologia.<br>
 
 <div align="center">
 <a href="https://github.com/matheusbbdutra">
