@@ -1,21 +1,30 @@
 # Matheus Dutra
 
-Tenho 26 anos, moro em Santa Rita-PB. Como Desenvolvedor JR, estou procurando sempre me aprimorar na área, adquirindo novos conhecimentos, principalmente por meio da prática no dia a dia, tanto no trabalho, quanto fora dele. Trabalhar com tecnologia é algo desafiador, e decidi por escolher essa área por gostar de resolver problemas e criar soluções, e na programação encontrei uma forma de unir o útil ao agradável. 
+🎯 Desenvolvedor apaixonado por resolver problemas e criar soluções inteligentes com código.
+📍 Moro em Santa Rita - PB e, aos 26 anos, continuo evoluindo na área de tecnologia, sempre em busca de novos conhecimentos. Acredito que a prática constante, tanto no trabalho quanto em projetos pessoais, é essencial para crescer como profissional.
 
-Atualmente trabalho com sistemas patenteados, implementando novas funcionalidades e dando manutenção nas funções já existentes, procurando sempre manter um padrão de lógica e de código legível e entendível para as demais pessoas. Nesses projetos trabalho principalmente com PHP, Symfony e Doctrine, mas também tendo contato com JavaScript/TypeScript quando necessário.
+A programação é a minha forma de unir criatividade e lógica, permitindo-me enfrentar desafios e desenvolver soluções eficientes. Trabalho atualmente com sistemas patenteados, implementando novas funcionalidades e mantendo as existentes, sempre prezando pela clareza, boas práticas e um código fácil de entender para que outras pessoas possam colaborar de forma fluida.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusbbdutra&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusbbdutra&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+O que faço atualmente:
+🔧 Implemento novas funcionalidades e mantenho sistemas já existentes com foco em alta performance e organização.
+🛠 Tecnologias principais: PHP, Symfony e Doctrine.
+🌱 Contato adicional com: JavaScript / TypeScript sempre que necessário, ampliando meu repertório.
+🚀 Sempre em busca de aprender mais e contribuir com a comunidade de tecnologia.
 
-## Tecnologias Utilizadas
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![Symfony](https://img.shields.io/badge/Symfony-000?style=for-the-badge&logo=Symfony)
-![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel) 
-![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker) 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
-![PostGresql](https://img.shields.io/badge/PostGresql-000?style=for-the-badge&logo=PostGresql)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+<div align="center">
+<a href="https://github.com/matheusbbdutra">
+<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbbdutra&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api?username=matheusbbdutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Symfony-000?style=for-the-badge&logo=Symfony" />
+  <img src="https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js" />
+  <img src="https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/PostGresql-000?style=for-the-badge&logo=PostGresql" />
+</div>
+  
 
 
 ## Links
